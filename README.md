@@ -1,9 +1,10 @@
-# This is an h1
+# Speedy
 
-This is just a plain paragraph.
+## A test Atom project
 
-## This is an h2
-
-Some more details here.
-
-### This is an h3
+```javascript
+var s = 'string';
+function function_name(argument) {
+  // body...
+}
+```
